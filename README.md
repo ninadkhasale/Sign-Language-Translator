@@ -1,1 +1,3 @@
 # Sign-Language-Translator
+
+This project involves the development of a sign language translator using an Artificial Neural Network (ANN) within Jupyter Notebook. It includes audio output for alphabet sounds, enabling seamless communication among blind, mute, and deaf individuals. The code compares Linear Discriminant Analysis (LDA) and Principal Component Analysis (PCA) for dimensionality reduction, though the core focus is on utilizing TensorFlow's sequential dense model for the ANN. With the potential to improve accuracy, future enhancements are possible. This initiative exemplifies the power of #DataScience for social impact.
